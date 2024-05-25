@@ -19,7 +19,7 @@ UPDATE_INTERVAL = 60
 
 CREDITS = [
     {"Created by": "Smeltvig (https://github.com/Smeltvig)"},
-    {"copy from": "J-Lindvig (https://github.com/J-Lindvig)"},
+    {"Forked from": "J-Lindvig (https://github.com/J-Lindvig)"},
     {
         "Original idea": "Martin Larsen (https://www.facebook.com/martin.hyldgaard.larsen)"
     },
