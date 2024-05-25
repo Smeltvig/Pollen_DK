@@ -18,7 +18,8 @@ REGION_IDS = {"Øst for Storebælt": 48, "Vest for Storebælt": 49}
 UPDATE_INTERVAL = 60
 
 CREDITS = [
-    {"Created by": "J-Lindvig (https://github.com/J-Lindvig)"},
+    {"Created by": "Smeltvig (https://github.com/Smeltvig)"},
+    {"copy from": "J-Lindvig (https://github.com/J-Lindvig)"},
     {
         "Original idea": "Martin Larsen (https://www.facebook.com/martin.hyldgaard.larsen)"
     },
