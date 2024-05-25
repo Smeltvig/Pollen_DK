@@ -1,10 +1,10 @@
 {
     "domain": "pollen_dk",
     "name": "Pollen DK",
-    "documentation": "https://github.com/J-Lindvig/Pollen_DK",
-    "issue_tracker": "https://github.com/J-Lindvig/Pollen_DK/issues",
+    "documentation": "https://github.com/Smeltvig/Pollen_DK",
+    "issue_tracker": "https://github.com/Smeltvig/Pollen_DK/issues",
     "dependencies": [],
-    "codeowners": ["@J-Lindvig"],
+    "codeowners": ["@Smeltvig"],
     "requirements": [],
     "iot_class": "cloud_polling",
     "version": "0.2.2"
