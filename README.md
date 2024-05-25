@@ -1,5 +1,7 @@
 # Pollen_DK
 
+![Icon](images/icon.png)
+
 ## Introduction
 Scraping of pollen count in Denmark.
 
